@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Model App</string>
+    <string name="press_button_to_count">Press button to count!</string>
+    <string name="increment">Increment</string>
+</resources>
